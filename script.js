@@ -99,7 +99,7 @@ class Truck extends Factory{
 // The following properties must be specified: model (mazda3), color (red), enginetype (hybrid), transmission (automatic), trim (touring), wheels (base), audio (premium), seats (leather), and moonroof (true)
 
 // Write your 'mazda3' instance below:
-let mazda3 = new Car('mazda3', null, 'red', 'hybrid', 'automatic', 'touring', 'base', 'premium', 'leather', true);
+let mazda3 = new Car('mazda3', 4, 'red', 'hybrid', 'automatic', 'touring', 'base', 'premium', 'leather', true);
 
 // Print mazda3. I should have all the above properties.
 // Write your code below:
